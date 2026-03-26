@@ -22,6 +22,8 @@ Bit-level operations use the [`bitarray`](https://github.com/ilanschnell/bitarra
 
 Python functions which are complete, are saved in "functions.py" and may be imported into other documents to be used. Python functions which we are currently working on are saved in "to_gnss-sdr.ipynb".
 
+Other files may be ignored for now, as they are old, but kept for good measure until we are sure everything else works.
+
 ## Reference
 
 IS-GPS-200N — *NAVSTAR GPS Space Segment/Navigation User Segment Interfaces*
